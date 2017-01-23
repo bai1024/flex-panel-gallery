@@ -1,5 +1,5 @@
 ## 效果图
-![images ](http://ok7n02kz6.bkt.clouddn.com/liGopEMoKIldAh58NOsolFYI8-MX.gif)
+![images](http://ok7n02kz6.bkt.clouddn.com/liGopEMoKIldAh58NOsolFYI8-MX.gif)
 
 ## CSS部分
 1.flexbox
