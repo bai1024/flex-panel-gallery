@@ -1,3 +1,6 @@
+## 效果图
+![images ](http://ok7n02kz6.bkt.clouddn.com/liGopEMoKIldAh58NOsolFYI8-MX.gif)
+
 ## CSS部分
 1.flexbox
 使用`flex`可以使各元素占有一定的比例。主要步骤:
